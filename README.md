@@ -1,2 +1,2 @@
-# ABC_Python_code
-New_Pyrhon_code
+# My_Python_Project
+Python practies
